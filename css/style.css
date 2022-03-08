@@ -42,7 +42,7 @@ body{
 #post{
     padding: 1em;
     background-color: white;
-    height: 200px;
+    height: 650px;
 }
 
 .footer-container{
@@ -52,4 +52,5 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 15px;
 }
