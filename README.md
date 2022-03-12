@@ -8,4 +8,5 @@ En este curso aprendi sobre:
 * El flujo de trabajo en Github
 * Buenas practicas
 * Creado por un estudiante de Platzi
-
+* Incluye ejemplos en linux y mac
+* Disponible para todas las edades
