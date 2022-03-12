@@ -9,3 +9,4 @@ En este curso aprendi sobre:
 * Buenas practicas
 * Creado por un estudiante de Platzi
 * Incluye ejemplos en linux y mac
+* Disponible para todas las edades
